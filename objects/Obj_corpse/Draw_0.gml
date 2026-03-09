@@ -1,0 +1,1 @@
+if (Obj_cursor.draw_corpses) {draw_self()}
